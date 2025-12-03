@@ -31,7 +31,3 @@ This repository homes all published versions of the bot.
 #### EpicOS 2023
 
 - A Node.js version of EpicOS created on the 27th of November 2023. Replaced by [Requests](https://github.com/cffisher/EpicOS?tab=readme-ov-file#requests).
-
-## More
-
-For more old MPP code, see the [2017.10.07 archive](https://github.com/cffisher/2017-10-07-mpp-archive).
