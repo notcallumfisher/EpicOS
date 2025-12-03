@@ -10,7 +10,3 @@ You might notice that the related messages are commented out as they became pret
 The main app.js was archived & replaced while commands continued to be used & updated, so this is the only archived file.
 
 No commands are included.
-
-## Directory
-
-You can find a list of all published EpicOS projects in the [project directory](https://github.com/cffisher/EpicOS).
