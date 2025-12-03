@@ -8,7 +8,7 @@
 
 - A rewritten userscript version of EpicOS (v1), created in 2024, optimized for modern browsers.
 
-After [installing EpicOS as a userscript](https://greasyfork.org/scripts/521353), you can send /help to chat on [Multiplayer Piano](https://multiplayerpiano.net) to see its command list.
+After [installing EpicOS as a userscript](https://greasyfork.org/scripts/521353), you can send /help to chat on [Multiplayer Piano](https://multiplayerpiano.com) to see its command list.
 
 ### Features
 
@@ -44,7 +44,3 @@ The following variables can be set towards the top of the userscript:
 - welcomeUsers - Whether or not to welcome users that enter the room - Can be true or false. The default is false
 - sendStartUpMsg - Whether or not to send a greeting message on start-up - Can be true or false. The default is false
 - antiSpamTimeout - Time in milliseconds before the bot can repeat its last chat message - Can be any value in milliseconds. The default is 40000
-
-## Directory
-
-You can find a list of all published EpicOS projects in the [project directory](https://github.com/cffisher/EpicOS).
