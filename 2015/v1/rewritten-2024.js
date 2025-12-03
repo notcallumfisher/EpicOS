@@ -23,7 +23,7 @@
 // ==/UserScript==
 
 /*
-	callum fisher - 2024.12.21 - 2025.07.31
+	callum fisher - 2024.12.21 - 2025.12.03
 
 	This is a rewrite of the original 2015 web browser version of EpicOS. I have:
 	- Compiled separate message listeners into one
@@ -45,8 +45,8 @@ const startEOS = () => {
 
 	let selfID = MPP.client.getOwnParticipant()._id; // Your _ID on Multiplayer Piano
 
-	let version = '1.0.10';
-	let editDate = '2025.07.31';
+	let version = '1.0.11';
+	let editDate = '2025.12.03';
 
 	console.log(`[EpicOS (v1) - Rewritten v${version}] Running.`);
 
