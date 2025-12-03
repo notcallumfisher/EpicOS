@@ -1,2 +1,0 @@
-# Epic's Socket Bot
-Epic's Socket Bot is a script for [Multiplayer Piano](https://multiplayerpiano.net) that splits [Ste-Art's MIDI player bot (NMPB)](https://nmpb-blog.blogspot.com/) into multiple bots to bypass the note limit.
