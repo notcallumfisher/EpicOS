@@ -7,7 +7,7 @@ This repository homes all published versions of the bot.
 
 ### 2015
 
-#### v1 Cleaned
+#### v1 - Cleaned
 
 - The original version of EpicOS, created in 2015, preserved in all its tacked-together-by-a-nine-year-old glory - cleaned up slightly for publication in 2024.
 
