@@ -1,0 +1,56 @@
+{
+    "balance": [
+        "b",
+        "bal",
+        "coins"
+    ],
+    "song": [
+        "playing",
+        "current"
+    ],
+    "play": [
+        "p",
+        "resume"
+    ],
+    "stop": [
+        "s",
+        "pause"
+    ],
+    "upload": [
+        "u",
+        "d",
+        "download"
+    ],
+    "coinflip": [
+        "flipcoin",
+        "headsortails"
+    ],
+    "delete": [
+        "d"
+    ],
+    "rps": [
+        "rockpaperscissors"
+    ],
+    "roll": [
+        "bet"
+    ],
+    "8ball": [
+        "magic8ball",
+        "9ball",
+        "10ball",
+        "8ball",
+        "7ball",
+        "6ball"
+    ],
+    "guessthesong": [
+        "gts"
+    ],
+    "myinfo": [
+        "who",
+        "me",
+        "nick"
+    ],
+    "help": [
+        "h"
+    ]
+}
