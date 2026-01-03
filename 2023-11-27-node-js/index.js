@@ -23,7 +23,7 @@ const valid_keys = { // this is a list of keys and their values which should be 
 				"playBackgroundMusic": true,
 				"welcomeUsers": true,
 				"welcomeTimeout": 120000,
-				"welcomeMessage": "Welcome, %name%. Please feel free play along or stay and chat. You can %cmdprefix%play, %cmdprefix%upload or %cmdprefix%stop songs of your own choice. You can send %cmdprefix%help for more commands.",
+				"welcomeMessage": "Welcome, %name%. Please feel free to play along or stay and chat. You can %cmdprefix%play, %cmdprefix%upload or %cmdprefix%stop songs of your own choice. You can send %cmdprefix%help for more commands.",
 				"desiredChannelSettings": {
 					"color": "#002A33",
 					"color2": "#000000",
