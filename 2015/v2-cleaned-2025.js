@@ -1,15 +1,10 @@
-﻿/*
-	"EpicOS (v2) - Cleaned"
-	2015 - 2025.01.01
+/*
+	callum fisher - 2015 - 2025.01.01
 
 	This is version 2 of the web browser version of EpicOS. I have:
 	- Corrected some typos
 	- Removed (some) bloat including some external scripts
 	Other than that, the original (bad) code structure remains.
-
-	Repository: https://github.com/cffisher/EpicOS
-
-	Callum Fisher <fishercallum@proton.me>
 
 	This is free and unencumbered software released into the public domain.
 
