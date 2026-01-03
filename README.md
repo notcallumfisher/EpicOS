@@ -12,7 +12,10 @@ This repository homes all published versions of the bot.
 - The original version of EpicOS, created in 2015, preserved in all its tacked-together-by-a-nine-year-old glory - cleaned up slightly for publication in 2024.
 
 #### [v1 - Rewritten](https://github.com/notcallumfisher/EpicOS/blob/main/2015/v1/rewritten-2024.js)
-- A rewritten userscript version of EpicOS (v1), created in 2024, optimized for modern browsers.
+- A rewritten userscript version of EpicOS (v1), created in 2024.
+
+#### [v2 - Cleaned](https://github.com/notcallumfisher/EpicOS/blob/main/2015/v2/cleaned-2025.js)
+- The second version of EpicOS, cleaned up for publication in 2025.
 
 ### 2020
 
