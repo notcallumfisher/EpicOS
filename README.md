@@ -31,6 +31,6 @@ This repository homes all published versions of the bot.
 
 ### 2023
 
-#### EpicOS 2023
+#### [EpicOS 2023](https://github.com/notcallumfisher/EpicOS/tree/main/2023-11-27-node-js)
 
 - A Node.js version of EpicOS from 2023.
