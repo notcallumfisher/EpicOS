@@ -1,13 +1,5 @@
 /*
-	"EpicOS (v10) - Node.js Rewrite"
-	app.js - Main program.
-	2020.07.22
-
-	An unfinished Node.js rewrite of EpicOS (v10).
-
-	Repository: https://github.com/cffisher/EpicOS
-
-	Callum Fisher <fishercallum@proton.me>
+	callum fisher - 2020.07.22
 
 	This is free and unencumbered software released into the public domain.
 
