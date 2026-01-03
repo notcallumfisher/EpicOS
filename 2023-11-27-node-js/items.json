@@ -1,0 +1,14 @@
+{
+    "index": [{
+        "id": 0,
+        "name": "coin",
+        "value": 1,
+        "desc": "Coins allow you to purchase items from the store",
+        "use": [
+            {
+                "action": "say",
+                "input": "The coin falls into the water and you feel a wave of luck wash over you."
+            }
+        ]
+    }]
+}
