@@ -33,4 +33,4 @@ This repository homes all published versions of the bot.
 
 #### EpicOS 2023
 
-- A Node.js version of EpicOS created on the 27th of November 2023. Replaced by Requests.
+- A Node.js version of EpicOS from 2023.
