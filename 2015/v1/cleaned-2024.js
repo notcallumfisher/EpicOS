@@ -1,16 +1,10 @@
 /*
-	"EpicOS (v1) - Cleaned"
-	2015 - 2024.12.20
+	callum fisher - 2015 - 2024.12.20
 
 	This is the original 2015 web browser version of EpicOS. I have:
 	- Corrected some typos
 	- Removed Squid's name collector script
 	Other than that, the original (bad) code structure remains.
-
-	A rewritten version is available as a userscript: https://greasyfork.org/scripts/521353
-	Repository: https://github.com/fishercallum/EpicOS
-
-	callum fisher - fishercallum@proton.me
 
 	This is free and unencumbered software released into the public domain.
 
