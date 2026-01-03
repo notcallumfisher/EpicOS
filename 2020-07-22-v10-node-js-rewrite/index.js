@@ -1,11 +1,6 @@
 /*
-	"EpicOS (v10) - Node.js Rewrite"
+	callum fisher - 2020.07.22
 	index.js - This file acts a launcher for the application, by handling any missing essential files and then launching the main application.
-	2020.07.22
-
-	Repository: https://github.com/cffisher/EpicOS
-
-	Callum Fisher <fishercallum@proton.me>
 
 	This is free and unencumbered software released into the public domain.
 
