@@ -9,7 +9,7 @@ This repository homes all published versions of the bot.
 
 #### [v1 - Cleaned](https://github.com/notcallumfisher/EpicOS/blob/main/2015/v1/cleaned-2024.js)
 
-- The original version of EpicOS, created in 2015, preserved in all its tacked-together-by-a-nine-year-old glory - cleaned up slightly for publication in 2024.
+- The original 2015 version, preserved in all its tacked-together-by-a-nine-year-old glory - cleaned up slightly for publication in 2024.
 
 #### [v1 - Rewritten](https://github.com/notcallumfisher/EpicOS/blob/main/2015/v1/rewritten-2024.js)
 - A rewritten userscript version of EpicOS (v1), created in 2024.
@@ -19,7 +19,7 @@ This repository homes all published versions of the bot.
 
 ### 2020
 
-#### [EpicOS (v10) - Node.js Rewrite](https://github.com/notcallumfisher/EpicOS/tree/main/2020-07-22-v10-node-js-rewrite)
+#### [v10 - Unfinished Node.js Rewrite](https://github.com/notcallumfisher/EpicOS/tree/main/2020-07-22-v10-node-js-rewrite)
 
 - An unfinished Node.js rewrite of EpicOS (v10).
 
