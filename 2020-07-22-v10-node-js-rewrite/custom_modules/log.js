@@ -1,11 +1,6 @@
 /*
-	"EpicOS (v10) - Node.js Rewrite"
+	callum fisher - 2020.07.22
 	log.js - For handling recording of session logs.
-	2020.07.22
-
-	Repository: https://github.com/cffisher/EpicOS
-
-	Callum Fisher <fishercallum@proton.me>
 
 	This is free and unencumbered software released into the public domain.
 
